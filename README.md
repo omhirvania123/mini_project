@@ -1,1 +1,2 @@
-# mini_project
+# MyTrx
+Transaction Tracker and Budget planner
